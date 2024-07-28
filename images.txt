@@ -1,2 +1,5 @@
 mysql:8.0.30
 rabbitmq:3.12-management
+redis:7.0.10
+nacos/nacos-server:v2.2.2
+minio/minio
